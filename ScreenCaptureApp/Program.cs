@@ -37,7 +37,7 @@ namespace ScreenCaptureApp
             AppRegistery.ShowOrHideAppFolder(true);
             //AppRegistery.ShowOrHideAppFromTaskBar();
             //Service1.InsertLogInfo(); 
-            //Service1.OnStart();
+            Service1.OnStart();
 
             timer.Elapsed += new System.Timers.ElapsedEventHandler(tmrPoll_Tick);
             timer.Enabled = true;

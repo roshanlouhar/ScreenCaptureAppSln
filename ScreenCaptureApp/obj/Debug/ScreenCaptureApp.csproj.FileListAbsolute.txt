@@ -1,12 +1,11 @@
-D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.exe.config
-D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.Properties.Resources.resources
-D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.csproj.GenerateResource.Cache
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.exe
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.pdb
-D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\Google.Protobuf.dll
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\MySql.Data.dll
+D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\ScreenCaptureApp.exe.config
+D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\Google.Protobuf.dll
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\Google.Protobuf.xml
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\bin\Debug\MySql.Data.xml
+D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.Properties.Resources.resources
+D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.csproj.GenerateResource.Cache
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.exe
 D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.pdb
-D:\WorkCode\ScreenCaptureAppSln\ScreenCaptureApp\obj\Debug\ScreenCaptureApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+1. Solution works on VS 2015 and .net framework 4.5 and above
+2. User should have Mysql Server and client installed on machine for .net.
+3. Install the Mysql server and MySql connector for dotnet .
+4. User need to have visual studio installer downloaded on machine to build the installer on machine.
+
